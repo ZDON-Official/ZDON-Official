@@ -1,5 +1,5 @@
 ### Hi there, I am Zohaib
-I am a senior majoring in Computer Science, with double minor in Math and Data Scienc.\
+I am a senior majoring in Computer Science, with double minor in Math and Data Science.\
 In my free time I like to paint digital landscapes, learn new programming languages and skills.
 
 <!--
